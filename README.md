@@ -35,4 +35,13 @@ npm run build
 
 [View on GitHub](https://github.com/Abhisp2711/trackcalorie-webpack)
 
+## 🔗 Deployment
+
+This project is deployed using **Netlify**.<br>
+[View on Live](https://trackcalorie2.netlify.app/)
+
+- 🔗 Site name: `Trackcalorie`
+- 🛠 GitHub repo: `trackcalorie-webpack`
+- 🏗 Build command: `npm run build`
+- 📁 Publish directory: `dist`
 
