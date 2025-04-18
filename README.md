@@ -1,6 +1,6 @@
-# Webpack Starter
+# Trackcalorie
 
-A simple and minimal Webpack setup to kickstart a modern JavaScript project.
+A simple and minimal Trackcalorie App for tracking meal and workout calorie.
 
 ## 📁 Project Structure
 ```
