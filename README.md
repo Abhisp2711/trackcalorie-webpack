@@ -3,33 +3,36 @@
 A simple and minimal Webpack setup to kickstart a modern JavaScript project.
 
 ## 📁 Project Structure
-
-### webpack-starter/ 
-├── dist/ │ 
-          └── index.html 
-### HTML file (loads bundled JS) 
-├── src/ │ ├── index.js
- ### Entry JS file │ 
- └── message.js 
- ### Sample exported data 
- ├── .gitignore 
- ### Ignore node_modules and dist 
- ├── package.json 
- ### Project metadata and scripts
-  └── README.md # Project info
-
-## 🚀 Getting Started
+```
+trackcalorie-starter/ 
+├── css/ 
+│ └── style.css 
+│ └── bootstrap.css 
+├── webfonts/ 
+├── Item.js 
+├── Storage.js 
+├── Tracker.js 
+├── app.js 
+├── capitalizeFirst.js 
+├── index.html 
+├── package.json 
+├── package-lock.json 
+├── webpack.config.js 
+├── .gitignore 
+└──
+```
+##  Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone < https://github.com/Abhisp2711/webpack >
+git clone < https://github.com/Abhisp2711/trackcalorie-webpack>
 cd webpack-starter
 npm install
 npm run build
 ```
 ## 🔗 GitHub Repository
 
-[View on GitHub](https://github.com/abhishek-codehub/webpack-starter)
+[View on GitHub](https://github.com/Abhisp2711/trackcalorie-webpack)
 
 
